@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265523659855",
+    "project_id": "notetaker-342c4",
+    "storage_bucket": "notetaker-342c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265523659855:android:dc080732cbf388de4fd63a",
+        "android_client_info": {
+          "package_name": "com.anuditakeshri.note_taking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265523659855-2g0t0tll53u0ps71pbnkg1qcod7i2fc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr31_SHGWiRy1thZrMlJilpWaikBLpJlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265523659855-2g0t0tll53u0ps71pbnkg1qcod7i2fc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
