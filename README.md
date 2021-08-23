@@ -12,3 +12,9 @@ Register Page                                                                   
 Creating New Note                                                                                                            |  Note View
 :------------------------------------------------------------------------------------------------------------------------:|:-------------------------:
 <img src="https://github.com/anuditakeshri/Note_Taker-App/blob/master/Screenshots/New_note_NT.jpg" width="250">|<img src="https://github.com/anuditakeshri/Note_Taker-App/blob/master/Screenshots/Note_NT.jpg" width="250">
+
+
+Saving a Note                                                                                                            |  Search Note
+:------------------------------------------------------------------------------------------------------------------------:|:-------------------------:
+<img src="https://github.com/anuditakeshri/Note_Taker-App/blob/master/Screenshots/Note_saved.jpg" width="250">|<img src="https://github.com/anuditakeshri/Note_Taker-App/blob/master/Screenshots/search_NT.jpg" width="250">
+
